@@ -4,7 +4,7 @@
 
 **Программа для применения оптимальных настроек графики ПК-игр в один клик**
 
-[![Version](https://img.shields.io/badge/Version-v1.43-6366F1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
+[![Version](https://img.shields.io/badge/Version-v1.45-6366F1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Katarsyz/GSettOptimizer/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/)
 [![Framework](https://img.shields.io/badge/Framework-.NET%208%20WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Boosty](https://img.shields.io/badge/Boosty-Поддержать%20проект-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/gsett/)
@@ -107,7 +107,7 @@
 
 Как получить доступ к PRO-версии программы:
 * Перейдите на страницу [Boosty](https://boosty.to/gsett/) и оформите платную подписку уровня MEDIUM (100₽) или выше
-* В программе в левом верхнем углу нажмите кнопку "Активировать PRO" и введите в поле своё имя на Boosty. Ваше имя можно посмотреть в настройках аккаунта Boosty: [boosty.to/app/settings/edit](https://boosty.to/app/settings/edit)
+* В программе в правом верхнем углу нажмите кнопку "Активировать PRO" и введите в поле своё имя на Boosty. Ваше имя можно посмотреть в настройках аккаунта Boosty: [boosty.to/app/settings/edit](https://boosty.to/app/settings/edit)
 * Если активация не срабатывает - подождите пару минут и попробуйте снова, т.к. добавление лицензий в базу происходит не моментально. И убедитесь что вы вводите имя точно также, как оно указано в вашем профиле Boosty.
 * Если в вашем профиле Boosty не было указано никакое имя при регистрации, то активировать лицензию PRO можно также по вашему email. Но информация об email платных подписчиков вносится в базу раз в сутки, поэтому активировать PRO таким образом сразу после оформления платной подписки не получится. Для ускорения процесса вы можете написать мне в личку на Boosty или в личку [TG](https://telegram.me/katar5yz)
 
