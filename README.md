@@ -4,7 +4,7 @@
 
 **Программа для применения оптимальных настроек графики ПК-игр в один клик**
 
-[![Version](https://img.shields.io/badge/Version-v1.45-6366F1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Katarsyz/GSettOptimizer/releases)
+[![Version](https://img.shields.io/badge/Version-v1.46-6366F1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Katarsyz/GSettOptimizer/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/)
 [![Framework](https://img.shields.io/badge/Framework-.NET%208%20WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Boosty](https://img.shields.io/badge/Boosty-Поддержать%20проект-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/gsett/)
@@ -38,7 +38,7 @@
   * **Оптимальный**: наилучший баланс - вы получаете очень близкое качество графики к максимальным настройкам, но с гораздо более высоким FPS.
   * **Производительность***: более существенный прирост к FPS, но уже с некоторыми визуальными компромиссами. Рекомендуется использовать, если при Оптимальном пресете FPS недостаточный.
   * **Качество***: наилучшее качество графики, но уже не с таким большим приростом FPS как при Оптимальном пресете. Рекомендуется использовать, если с Оптимальным пресетом все ещё остаётся запас производительности.
-  > \* *Дополнительные пресеты Качество и Призводительность доступны в **<a href="#-pro-версия"><b>PRO-версии</b></a>***.
+  > \* *Дополнительные пресеты Качество, Призводительность а также пресеты от других техноблогеров доступны в **<a href="#-pro-версия"><b>PRO-версии</b></a>***.
 * 🔍 **Автоопределение установленных игр:**
   * Автоматический поиск установленных игр из библиотеки **Steam** и некоторых других лаунчеров, в том числе торрент-версий.
   * Автоматический поиск пути к файлу настроек игры (`%LOCALAPPDATA%`, `Documents`, `Saved Games`, Windows Registry и т.д.).
