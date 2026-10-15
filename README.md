@@ -4,7 +4,7 @@
 
 **Программа для применения оптимальных настроек графики ПК-игр в один клик**
 
-[![Version](https://img.shields.io/badge/Version-v1.48-6366F1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Katarsyz/GSettOptimizer/releases)
+[![Version](https://img.shields.io/badge/Version-v1.49-6366F1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Katarsyz/GSettOptimizer/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/)
 [![Framework](https://img.shields.io/badge/Framework-.NET%208%20WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Boosty](https://img.shields.io/badge/Boosty-Поддержать%20проект-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/gsett/)
